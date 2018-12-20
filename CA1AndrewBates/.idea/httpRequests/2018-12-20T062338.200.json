@@ -1,0 +1,18 @@
+{
+  "message": "Account Successfully Added!",
+  "data": {
+    "matchesPlayed": 0,
+    "endorsement": 0,
+    "balance": 0,
+    "_id": "5c1bde2a2e85320b24327112",
+    "tournamentsPlayed": [],
+    "tournamentsOwned": [],
+    "name": "Siegfried Schtauffen",
+    "nationality": "German",
+    "email": "SEdge@mail.wit.ie",
+    "username": "Nightmare",
+    "password": "witwitwit",
+    "team": "none",
+    "__v": 0
+  }
+}

@@ -1,0 +1,504 @@
+POST http://localhost:3000/accounts
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+ {"name":"Siegfried Schtauffen", "nationality":"German","email":"SEdge@mail.wit.ie","username":"Nightmare","password":"witwitwit","team":"none"}
+
+<> 2018-12-20T082705.200.json
+
+###
+
+POST http://localhost:3000/accounts
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+ {"name":"Siegfried Schtauffen", "nationality":"German","email":"SEdge@mail.wit.ie","username":"Nightmare","password":"witwitwit","team":"none"}
+
+<> 2018-12-20T063700.200.json
+
+###
+
+POST http://localhost:3000/accounts
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+ {"name":"Siegfried Schtauffen", "nationality":"German","email":"SEdge@mail.wit.ie","username":"Nightmare","password":"witwitwit","team":"none"}
+
+<> 2018-12-20T063621.200.json
+
+###
+
+POST http://localhost:3000/accounts
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+ {"name":"Siegfried Schtauffen", "nationality":"German","email":"SEdge@mail.wit.ie","username":"Nightmare","password":"witwitwit","team":"none"}
+
+<> 2018-12-20T063549.200.json
+
+###
+
+POST http://localhost:3000/accounts
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+ {"name":"Siegfried Schtauffen", "nationality":"German","email":"SEdge@mail.wit.ie","username":"Nightmare","password":"witwitwit","team":"none"}
+
+<> 2018-12-20T062338.200.json
+
+###
+
+GET http://localhost:3000/accounts/Nightmare
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese","email":"ceo@mzaibatsu.jp","username":"VolcanothrowerH","password":"witwitwit","team":"Mishima Zaibatsu"}
+
+<> 2018-12-20T012502.200.json
+
+###
+
+GET http://localhost:3000/accounts
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese","email":"ceo@mzaibatsu.jp","username":"VolcanothrowerH","password":"witwitwit","team":"Mishima Zaibatsu"}
+
+<> 2018-12-20T012454.200.json
+
+###
+
+GET http://localhost:3000/accounts/hmishima
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese","email":"ceo@mzaibatsu.jp","username":"VolcanothrowerH","password":"witwitwit","team":"Mishima Zaibatsu"}
+
+<> 2018-12-20T012450.200.json
+
+###
+
+GET http://localhost:3000/accounts/Sn1perandr3w
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese","email":"ceo@mzaibatsu.jp","username":"VolcanothrowerH","password":"witwitwit","team":"Mishima Zaibatsu"}
+
+<> 2018-12-20T012445.200.json
+
+###
+
+GET http://localhost:3000/accounts
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese","email":"ceo@mzaibatsu.jp","username":"VolcanothrowerH","password":"witwitwit","team":"Mishima Zaibatsu"}
+
+<> 2018-12-20T102319.200.json
+
+###
+
+POST http://localhost:3000/accounts
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese","email":"ceo@mzaibatsu.jp","username":"VolcanothrowerH","password":"witwitwit","team":"Mishima Zaibatsu"}
+
+<> 2018-12-20T102317.200.json
+
+###
+
+GET http://localhost:3000/accounts
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Siegfried Schtauffen", "nationality":"German","email":"SEdge@mail.wit.ie","username":"Nightmare","password":"witwitwit","team":"none"}
+
+<> 2018-12-20T102022.200.json
+
+###
+
+POST http://localhost:3000/accounts
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Siegfried Schtauffen", "nationality":"German","email":"SEdge@mail.wit.ie","username":"Nightmare","password":"witwitwit","team":"none"}
+
+<> 2018-12-20T102018.200.json
+
+###
+
+GET http://localhost:3000/accounts
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima","username":"H_MISHIMA", "nationality":"Japanese","team":"Mishima Zaibatsu"}
+
+<> 2018-12-20T101959.200.json
+
+###
+
+GET http://localhost:3000/accounts
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima","username":"H_MISHIMA", "nationality":"Japanese","team":"Mishima Zaibatsu"}
+
+<> 2018-12-20T101540.404.html
+
+###
+
+POST http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima","username":"H_MISHIMA", "nationality":"Japanese","team":"Mishima Zaibatsu"}
+
+<> 2018-12-19T092353.200.json
+
+###
+
+POST http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima","username":"H_MISHIMA", "nationality":"Japanese","team":"Mishima Zaibatsu"}
+
+<> 2018-12-19T091116.200.json
+
+###
+
+POST http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima","username":"H_MISHIMA", "nationality":"Japanese","team":"Mishima Zaibatsu"}
+
+<> 2018-12-19T085340.200.json
+
+###
+
+POST http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima","username":"H_MISHIMA", "nationality":"Japanese","team":"Mishima Zaibatsu"}
+
+<> 2018-12-19T085217.200.json
+
+###
+
+POST http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima","username":"H_MISHIMA", "nationality":"Japanese","team":"Mishima Zaibatsu"}
+
+<> 2018-12-19T085134.200.json
+
+###
+
+POST http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima","username":"H_MISHIMA", "nationality":"Japanese","team":"Mishima Zaibatsu"}
+
+<> 2018-12-19T085019.200.json
+
+###
+
+POST http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+<> 2018-12-19T073353.200.json
+
+###
+
+POST http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+<> 2018-12-19T073346.200.json
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+<> 2018-12-19T070947.200.html
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+<> 2018-12-19T070929.200.html
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+<> 2018-12-19T054451.200.json
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+###
+
+GET http://localhost:3000/tournaments/5c1a5cdd42ae6c35b0ab1cee/participants
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Heihachi Mishima", "nationality":"Japanese"}
+
+<> 2018-12-19T052650.200.json
+
+###
+

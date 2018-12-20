@@ -1,0 +1,24 @@
+{
+  "message": "Participant added!",
+  "data": {
+    "interested": 17,
+    "playerCount": 1,
+    "_id": "5c1a5cdd42ae6c35b0ab1cee",
+    "participants": [
+      {
+        "_id": "5c1ab3f4ffc3843870593ed3",
+        "name": "Heihachi Mishima",
+        "username": "H_MISHIMA",
+        "nationality": "Japanese",
+        "team": "Mishima Zaibatsu"
+      }
+    ],
+    "organizer": "HMishima",
+    "game": "Tekken 7",
+    "date": "20/12/18",
+    "time": "23:59",
+    "buyIn": 500,
+    "prize": 10000,
+    "__v": 15
+  }
+}

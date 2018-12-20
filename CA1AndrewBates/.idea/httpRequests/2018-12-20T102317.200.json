@@ -1,0 +1,18 @@
+{
+  "message": "Account Successfully Added!",
+  "data": {
+    "matchesPlayed": 0,
+    "endorsement": 0,
+    "balance": 0,
+    "_id": "5c1b6d95151e5c3a60e6fa67",
+    "tournamentsPlayed": [],
+    "tournamentsOwned": [],
+    "name": "Heihachi Mishima",
+    "nationality": "Japanese",
+    "email": "ceo@mzaibatsu.jp",
+    "username": "VolcanothrowerH",
+    "password": "witwitwit",
+    "team": "Mishima Zaibatsu",
+    "__v": 0
+  }
+}

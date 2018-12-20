@@ -1,0 +1,61 @@
+[
+  {
+    "matchesPlayed": 0,
+    "endorsement": 2,
+    "balance": 0,
+    "_id": "5c1b6ce2151e5c3a60e6fa66",
+    "tournamentsPlayed": [],
+    "tournamentsOwned": [],
+    "name": "Siegfried Schtauffen",
+    "nationality": "German",
+    "email": "SEdge@mail.wit.ie",
+    "username": "Nightmare",
+    "password": "witwitwit",
+    "team": "none",
+    "__v": 0
+  },
+  {
+    "matchesPlayed": 0,
+    "endorsement": 2,
+    "balance": 0,
+    "_id": "5c1b6d95151e5c3a60e6fa67",
+    "tournamentsPlayed": [],
+    "tournamentsOwned": [],
+    "name": "Heihachi Mishima",
+    "nationality": "Japanese",
+    "email": "ceo@mzaibatsu.jp",
+    "username": "VolcanothrowerH",
+    "password": "witwitwit",
+    "team": "Mishima Zaibatsu",
+    "__v": 0
+  },
+  {
+    "matchesPlayed": 0,
+    "endorsement": 1,
+    "balance": 0,
+    "_id": "5c1b8e574f05ba02a056e419",
+    "tournamentsPlayed": [],
+    "tournamentsOwned": [],
+    "name": "Sophitia Alexandra",
+    "nationality": "Greek",
+    "email": "salexandra@gmail.com",
+    "password": "hephaestus",
+    "team": "NONE",
+    "__v": 0
+  },
+  {
+    "matchesPlayed": 0,
+    "endorsement": 0,
+    "balance": 0,
+    "_id": "5c1b8ec84f05ba02a056e41a",
+    "tournamentsPlayed": [],
+    "tournamentsOwned": [],
+    "name": "Cassandra Alexandra",
+    "nationality": "Greek",
+    "email": "CAlexandra@gmail.com",
+    "username": "CAlexandra",
+    "password": "SCII",
+    "team": "NONE",
+    "__v": 0
+  }
+]

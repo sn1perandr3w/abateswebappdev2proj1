@@ -1,0 +1,20 @@
+[
+  {
+    "interested": 13,
+    "_id": "5c1a5cdd42ae6c35b0ab1cee",
+    "participants": [
+      {
+        "_id": "5c1a78f6d7131d0f7c7569bb",
+        "name": "Heihachi Mishima",
+        "nationality": "Japanese"
+      }
+    ],
+    "organizer": "HMishima",
+    "game": "Tekken 7",
+    "date": "20/12/18",
+    "time": "23:59",
+    "buyIn": 500,
+    "prize": 10000,
+    "__v": 1
+  }
+]
